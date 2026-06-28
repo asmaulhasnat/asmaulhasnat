@@ -112,8 +112,3 @@ Python-focused Software Engineer with **6+ years of experience** designing, deve
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=asmaulhasnat&color=0e75b6&style=flat-square" alt="Profile views" />
-</p>
-
-<p align="center"><i>"Clean code, scalable systems, and continuous growth."</i></p>
